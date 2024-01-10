@@ -1,4 +1,4 @@
-# Character Level Language Modelling
+# Character-Level Language Modelling
 Two character-level language models were constructed and
 trained from scratch using a dataset comprising 32,000
 distinct names. The primary objective was to generate novel
